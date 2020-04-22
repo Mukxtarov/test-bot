@@ -7,7 +7,6 @@ from telethon import Button
 from orator import DatabaseManager
 
 path = os.path.join(os.path.abspath(sys.path[0]), 'data', 'database.db')
-print(path)
 
 config = {
     'sqlite': {
