@@ -1,0 +1,24 @@
+{
+	"welcome": "Assalomu alaykum @Rasmiytestbot ga xush kelibsiz!\n\nBu bot yordamida, testlarni yaratishingiz va tekshirishingiz mumkin.\n\n📌Test yaratish uchun - Test yaratish tugmasini tanlang!\n📌Testga javob berish uchun - Testga javob berish tugmasini tanlang!",
+	"create_test": "📝 Test yaratish.",
+	"answer_the_test": "🤓 Testga javob berish",
+	"home": "🔙 Bosh sahifaga",
+	"stop_test": "🚫 Testni yakunlash.",
+
+	"create_test_text": "📌Test yaratish uchun:\n\n1. savol(kichik harflarda) so'zidan keyin =(tenglik belgisi) noyob ID raqam(o'zingiz tanlaysiz) - tire va test javoblarini kiritishingiz kerak.\n\n📍Namuna: savol=101-abcdabcdeabced",
+	"answer_test_text": "📌Testga javob berish uchun:\n\n1. Kanalda berilgan ID raqamni kiriting\n2. - tire yozing\n3. Test kalitlarini adashmasdan, to'g'ri ketma-ketlikda kiriting\n\n📍Namuna: 101-abcdacbde",
+	"create_test_fail": "Iltimos sizga berilgan tugmalardan birini tanlang.",
+	"test_exists": "Siz yaratmoqchi bo'lgan testning maxsus identifikator <b>{ID}</b> raqamidan avval foydalanilgan iltimos boshqa raqam bilan kiriting.",
+	"test_create": "📌 Test javoblaringiz qabul qilindi! ID raqam= <b>{ID}</b>\n\nTest ishlovchilar <b>{ID}</b> ushbu ID orqali testlarni ishlashlari mumkin.\n\nVaqt tugagandan so'ng quyidagi buyruqni kiriting:\n\n✅ natija=<b>{ID}</b>",
+	"subs_channel": "Assalomu alaykum @Rasmiytestbot ga xush kelibsiz!\n\nBot dan to'liq foydalanish uchun bizning kanalga a'zo bo'lishingiz kerak.\n\n",
+	"azo_boling": "👉 Kanalga a'zo bo'lish",
+	"check_azo": "✅ A'zo bo'ldim !",
+	"test_stop": "{ID} raqamli Test yakunlandi ✅",
+	"back_page": "⬅️",
+	"next_page": "➡️",
+	"page_home_not_back": "🙂 Bosh sahifadasiz.",
+	"page_stop_not_next": "☹️ Boshqa sahifa qolmadi.",
+	"my_create_tests": "✏️ Yaratgan testlarim.",
+	"my_answer_tests": "📖 Javob bergan testlarim",
+	"natija_export_excel": "📃 Elektron variantda yuklash."
+}
